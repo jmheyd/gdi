@@ -1,0 +1,83 @@
+body {
+	background-color: #94b8b8;
+	font-family: 'Raleway', sans-serif;
+}
+
+header {
+	background-color:  #94b8b8;
+	text-align: center;
+}
+h1 {
+	font-family: 'Amatic SC', cursive;
+	font-size: 80px;
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+}
+
+header h2 {
+	color: white;
+	text-transform: lowercase;
+}
+
+main {
+	margin-left: 90px;
+	margin-right: 90px;
+}
+
+p {
+	color: black;
+	font-family: 'Raleway', sans-serif;
+}
+
+img {
+	width: 250px;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+.skills {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	background-color: #357a99;
+	text-align: center;
+}
+
+.skills h2 {
+	color: white;
+}
+
+.skills p {
+	color: white;
+}
+
+.contact {
+	text-align: center;
+}
+
+.contact_image {
+	width: 64px;
+	border: none;
+	/*margin: 0 auto;*/
+}
+
+li {
+	font-family: 'Raleway', sans-serif;
+}
+
+footer {
+	text-align: center;
+}
+
+/* link styles */
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	color: black;
+}
